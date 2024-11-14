@@ -1,0 +1,594 @@
+﻿Latitude,Longitude,Project/Plant Name,Country,Rated Capacity (kWh),Rated Power (kW),Discharge Duration at Rated Power (hrs),Storage Capacity (kWh)
+37.4537502,-90.84,Taum Sauk Hydroelectric Power Station,United States,3520000,440000,8,3520000
+41.00095,-75.03,Yards Creek Pumped Storage,United States,2400000,400000,6,2400000
+39.7060984,-105.7,Cabin Creek Generating Station,United States,1296000,324000,4,1296000
+37.069105,-121.08,San Luis (William R. Gianelli) Pumped Storage Hydroelectric Powerplant,United States,3392000,424000,8,3392000
+42.611429,-72.473883,Northfield Mountain Pumped Storage Hydroelectricity Facility,United States,8482020,1119000,7.58,8482020
+34.6548333,-118.78,Castaic Pumped-Storage Plant,United States,12470000,1247000,10,12470000
+43.894481,-86.44,Ludington Pumped Storage,United States,14976000,1872000,8,14976000
+47.953884,-118.99,John W. Keys III Pump-Generating Plant,United States,25120000,314000,80,25120000
+42.442978,-74.45,Blenheim-Gilboa Pumped Storage Power Project,United States,17400000,1160000,15,17400000
+42.687055,-72.96,Bear Swamp Hydroelectric Power Station,United States,3000000,600000,5,3000000
+35.0247888,-85.3993734,Raccoon Mountain Pumped Storage Plant,United States,36344000,1652000,22,36344000
+34.2993741,-81.31,Fairfield Pumped Storage,United States,3563064,511200,6.97,3563064
+39.094098,-106.35,Mount Elbert Power Plant,United States,2400000,200000,12,2400000
+29.52616735,-98.4716692,Thermal Storage at San Antonio International Airport,United States,3376,422,8,3376
+38.198392,-79.81,Bath County Pumped Storage Station - Dominion Generation / First Energy,United States,30930900,3003000,10.3,30930900
+37.104114,-119.32,Big Creek (John S. Eastwood) Pumped Storage,United States,3530466,199800,17.67,3530466
+35.7826363,-80.89,Crescent Electric Membership Cooperative BESS,United States,500,500,1,500
+34.00009543,-117.6802244,SCE Chino Battery Storage Project,United States,40000,10000,4,40000
+31.2572207,-88.0280479,McIntosh CAES Plant - Unit 1 Facility Stores Compressed Air in a Solution-mined Salt Cavern,United States,2860000,110000,26,2860000
+33.078632,-96.833672,JC Penney Headquarters - Calmac,United States,53100,4425,12,53100
+35.010984,-83.01,Bad Creek Pumped Hydro Storage,United States,25560000,1065000,24,25560000
+18.3978052,-66.01,Puerto Rico Electric Power Authority (PREPA) Battery System,United States,14000,20000,0.7,14000
+34.006998,-118.192661,Vernon 5 MW / 3.5 MWh BESS,United States,3500,5000,0.7,3500
+37.37685715,-110.726121,Dangling Rope Marina Hybrid Power System,United States,2400,250,9.6,2400
+32.69691785,-96.78798693,VA Medical Center,United States,18400,2300,8,18400
+55.0845439,-131.58,Metlakatla BESS,United States,1400,1000,1.4,1400
+34.10146131,-118.3392454,El Capitan - Calmac,United States,900,150,6,900
+29.5910022,-95.0286036,TAS Thermal Storage with Combined-Cycle Cogeneration Plant,United States,51000,5100,10,51000
+32.78306984,-117.1266364,Mission City Office Complex - Calmac,United States,3500,500,7,3500
+37.42542694,-122.1928051,William & Flora Hewlett Foundation - Calmac,United States,1116,124,9,1116
+26.30303023,-98.17445523,University of Texas Pan-Am Thermal Energy Storage,United States,7000,875,8,7000
+38.6394278,-109.41,PacifiCorp Castle Valley VRB,United States,2000,250,8,2000
+18.4066055,-66.0137187,PREPA BESS 2,United States,13400,20000,0.67,13400
+32.23739456,-110.951937,University of Arizona - Calmac,United States,18000,3000,6,18000
+37.7799273,-121.9780153,"San Ramon Smart Energy Matrix FESS - Beacon Power, LLC -  6-kilowatt-hour flywheels",United States,25,100,0.25,25
+35.800172,-114.98,Nevada Solar One Solar Power Plant,United States,32000,64000,0.5,32000
+38.8788355,-77.40221718,"TES Tank for Internet Service Provider Dulles, VA",United States,3000,1500,2,3000
+41.5285366,-83.64778057,O-I World Headquarters,United States,3000,250,12,3000
+40.437947,-79.994009,Duquesne University Energy Storage,United States,3600,600,6,3600
+40.68141285,-80.07387795,St. Kilian Parish and School,United States,600,100,6,600
+41.5818,-83.57,Penta Career Center Thermal Storage,United States,12000,750,16,12000
+40.8953301,-83.89,AEP Bluffton NaS Energy Storage System,United States,12000,2000,6,12000
+43.6541362,-96.21,XCEL NGK MinnWind Wind-to-Battery Project,United States,7200,1000,7.2,7200
+38.4345321,-82.13,AEP Milton NaS Battery Energy Storage System,United States,12000,2000,6,12000
+41.2306034,-85.32,AEP Churubusco NaS Battery Energy Storage System,United States,12000,2000,6,12000
+42.68711585,-71.42338704,"Beacon Power 500 kW Flywheel (Tyngsboro, MA) - 0.5 MW Flywheel Energy Storage System",United States,125,500,0.25,125
+40.4776121,-75.77,Altairnano-PJM Lyons Li-ion Battery Ancillary Services Demo,United States,250,1000,0.25,250
+20.7983626,-156.33,Kaheawa Wind Project - Younicos,United States,375,1500,0.25,375
+19.7267618,-156.06,Holaniku at Keahole Point,United States,4000,2000,2,4000
+33.218512,-98.16,TAS Texas Cooperative,United States,1080000,90000,12,1080000
+40.7267682,-73.63,Long Island Bus BESS - New York Power Authority,United States,6500,1000,6.5,6500
+29.5607383,-104.37,Presidio NAS Energy Storage System - American Electric Power,United States,32000,4000,8,32000
+40.64530975,-73.95502303,Brooklyn Army Terminal Smart Grid Demonstration Project,United States,400,100,4,400
+35.1321877,-118.4489739,SCE Tehachapi Beacon Gen 4 FESS - 100 kW System,United States,25,100,0.25,25
+30.2415445,-97.76859899,South Austin Recreational Center Distributed Energy Storage Pilot,United States,70.05,15,4.67,70.05
+35.9603948,-83.9210261,EPRI Energy Storage System Demonstration - BYD,United States,46,50,0.92,46
+35.9220262,-84.14,EPRI Energy Storage System Demonstration - Greensmith Energy / International Battery,United States,83.5,50,1.67,83.5
+35.9220262,-84.14,EPRI Energy Storage System - Greensmith Energy / Boston Power,United States,12.5,25,0.5,12.5
+21.6659535,-157.94,Kahuku Wind Farm - Younicos,United States,3750,15000,0.25,3750
+33.81528075,-117.9262294,Disney California Adventure,United States,8000,2000,4,8000
+19.5429151,-155.67,Hawi Wind Farm BESS - Hawaii Renewable Partners,United States,250,1000,0.25,250
+32.822736,-117.142938,SDG&E Century Park DESS - Greensmith Energy,United States,83.5,50,1.67,83.5
+35.9220262,-84.14,EPRI Energy Storage System Demonstration - NEC,United States,48,25,1.92,48
+35.9220262,-84.14,EPRI Energy Storage System Demonstration - Beckett Energy Systems,United States,12.5,25,0.5,12.5
+42.298855,-83.149457,Ford Manufacturing Assembly Plant - Xtreme Power,United States,2002.5,750,2.67,2002.5
+32.8776555,-117.2432723,UC San Diego Panasonic / Sanyo Energy System,United States,30,30,1,30
+42.5364258,-71.6160662,Exfob (Tricon) Ft. Devens Military Container,United States,82,100,0.82,82
+33.7513419,-117.99,NEC 4 MW / 1 MWh GSS,United States,1680,4000,0.42,1680
+40.7533003,-73.9069058,7-Eleven Distributed Energy Storage System (DESS) - ConEdison / Green Charge Networks,United States,97,100,0.97,97
+34.986823,-106.61,PNM Prosperity Energy Storage Project,United States,2000,500,4,2000
+42.4580676,-71.3599889,VCharge Concord Pilot,United States,875,175,5,875
+39.002039,-79.89,AES Laurel Mountain,United States,8000,32000,0.25,8000
+21.48343645,-158.0364837,Waiawa High PV Penetration Circuit - Hawaiian Electric Company and University of Hawaii - HNEI,United States,250,1000,0.25,250
+35.9787638,-114.8337739,Nevada Solar One R&D Project,United States,100,100,1,100
+35.2981943,-81.02,Rankin Substation Energy Storage Project,United States,281.4,402,0.7,281.4
+42.5539158,-73.3944466,Beacon Power - 20 MW plant comprises 200 Beacon Power Series 400 flywheels,United States,5000,20000,0.25,5000
+40.46915023,-79.965876,Aquion Energy Sodium-Ion Battery for Grid-level Applications,United States,60,15,4,60
+34.0805651,-118.07,Southern California Edison - HVAC Optimization Program,United States,4500,750,6,4500
+39.755625,-104.62,Xcel SolarTAC CES Test,United States,50,25,2,50
+20.8165975,-156.93,Lanai Sustainability Research / La Ola PV Farm - Xtreme Power,United States,506.25,1125,0.45,506.25
+40.5865396,-122.39,Redding Electric Utilities (Phase 1) - Ice Energy,United States,6000,1000,6,6000
+33.3653102,-117.0766965,"SDGE Pala SES, GRC ES Program Unit 1",United States,1500,500,3,1500
+34.05604815,-117.8227822,Cal Poly - Amonix / Greensmith Energy,United States,150,75,2,150
+38.5530293,-121.2386708,SMUD High Penetration Solar Pilot Project Anatolia (RES System),United States,114.75,75,1.53,114.75
+38.54801805,-121.2363403,SMUD High Penetration Solar Pilot Project Anatolia (CES System),United States,101.7,90,1.13,101.7
+19.7173967,-156.05,HELCO BESS - Koyo (NELHA),United States,250,100,2.5,250
+19.641941,-155.996933,HELCO BESS - West Hawaii Civic Center,United States,250,100,2.5,250
+37.0944308,-94.53,EaglePicher HQ PowerPyramid,United States,2000,1000,2,2000
+21.321448,-157.864271,Pualani Manor- EnSync Energy (formerly ZBB),United States,150,60,2.5,150
+20.7963889,-156.51,Kaheawa Wind Power Project II - Younicos,United States,7500,10000,0.75,7500
+32.3140354,-106.7798078,Las Cruces - Apollo Solar / Iron Edison,United States,480,48,10,480
+41.394817,-73.45,Danbury Residence - Trace / Iron Edison,United States,200,20,10,200
+37.5998493,-109.2494316,Montezuma Canyon - Apollo Solar / Iron Edison,United States,170,17,10,170
+38.3565773,-121.99,PG&E Vaca Battery Energy Storage Pilot Project,United States,14000,2000,7,14000
+39.67718458,-75.75364958,Grid on Wheels,United States,900,360,2.5,900
+32.73598735,-117.1506542,San Diego Zoo Solar-to-EV Project,United States,100,100,1,100
+37.7820694,-122.4047432,InterContinental Hotels Group Stem Energy Optimization System,United States,15,15,1,15
+33.2558717,-116.38,SDG&E Borrego Springs Microgrid Demonstration Project: Home Energy Storage,United States,48,24,2,48
+33.2558717,-116.38,SDG&E Borrego Springs Microgrid Demonstration Project: Community Energy Storage,United States,150,75,2,150
+47.613361,-122.195179,PSE Bellevue Storage Innovation Project,United States,1000,500,2,1000
+40.9995386,-75.18,Pennsylvania ATLAS (Aggregated Transactive Load Asset),United States,10050,2010,5,10050
+57.5433765,-153.3574124,Pillar Mountain Wind Project - Xtreme Power,United States,750,3000,0.25,750
+32.92823123,-117.0783567,Scripps Ranch Community Center BESS,United States,100,100,1,100
+18.4308037,-65.88,San Fermin Solar BESS,United States,30000,2000,15,30000
+21.9066667,-159.47,Kauai Island Utility Cooperative - Xtreme Power,United States,375,1500,0.25,375
+42.6433846,-73.7775586,Barclay Tower,United States,1986.75,225,8.83,1986.75
+48.1139075,-123.42,Port Angeles Landing Mall,United States,39.75,75,0.53,39.75
+35.2272086,-80.8430827,McAlpine Energy Storage System - Duke Energy / BYD,United States,500,200,2.5,500
+21.9061111,-159.59,KIUC Port Allen Solar and BESS,United States,2010,3000,0.67,2010
+35.6204121,-80.9864655,Marshall Steam Station Energy Storage Project,United States,750,250,3,750
+32.7189926,-102.6449101,Texas Dispatchable Wind - 2.0MW Wind Generation Project Located in West Texas,United States,500000,2000,250,500000
+31.9819386,-102.61,Notrees Battery Storage Project - Duke Energy,United States,24120,36000,0.67,24120
+40.0583238,-74.41,Energy Storage Holdings Altair ALTI-ESS,United States,306,1800,0.17,306
+38.55214701,-121.4319232,SMUD Solar EV Charge Port,United States,130,50,2.6,130
+39.079782,-121.5441842,ShoEi Foods Stem PowerStore System,United States,72,72,1,72
+38.24004461,-121.3357406,SMUD Galt Advanced Feeder Demo ESS,United States,125,500,0.25,125
+34.1477829,-119.2,Port Hueneme Naval Facility - EnSync Energy (formerly ZBB),United States,50,25,2,50
+40.67545985,-73.6691672,LIRR Malverne WESS: Maxwell Technologies,United States,200,1000,0.2,200
+44.9428975,-123.04,Battelle Memorial Institute 5 MW / 1.25 MWh Pacific Northwest Smart Grid Demonstration,United States,1250,5000,0.25,1250
+39.892936,-75.172169,PSU GridSTAR Microgrid Test Center,United States,125,250,0.5,125
+40.8538944,-74.8291638,Solar Grid Storage Hackettstown,United States,125,250,0.5,125
+40.8922694,-74.4774255,Solar Grid Storage Denville,United States,125,250,0.5,125
+34.0536909,-118.242766,"Bi-directional EV Charging Stations, LA",United States,15,15,1,15
+45.0954986,-93.43729145,NRECA/CRN - Distributed Energy Storage Research Project (Great River Energy),United States,120,15,8,120
+43.6207916,-94.9886022,NRECA/CRN - Distributed Energy Storage Research Project (Federated),United States,10,5,2,10
+45.1271847,-94.5280474,NRECA/CRN - Distributed Energy Storage Research Project (Meeker),United States,10,5,2,10
+44.66579191,-93.61315146,NRECA/CRN: Distributed Energy Storage Research Project (Minnesota Valley Electric),United States,64,32,2,64
+45.0927233,-93.75,NRECA/CRN - Distributed Energy Storage Research Project (Wright-Hennepin),United States,128,64,2,128
+40.59335825,-105.0678422,New Belgium Brewery  - City of Fort Collins Utilities,United States,810,135,6,810
+44.440095,-73.15234,Dynapower Headquarters - Enersys,United States,1000,250,4,1000
+20.8099611,-156.369019,Zerobase Ocean Vodka PV Microgrid,United States,600,100,6,600
+39.087324,-76.9,Konterra Realty HQ (Laurel) ESS,United States,300,500,0.6,300
+33.6387024,-117.84,SCE Irvine Smart Grid Demonstration: RESU,United States,140,56,2.5,140
+41.65921,-112.44,ATK Launch Systems Microgrid EaglePicher BESS,United States,1200,300,4,1200
+31.6137467,-98.57,GE Tehachapi Wind Durathon Battery Project - Invenergy,United States,1200,300,4,1200
+39.8318378,-75.19,Energy Storage Holdings - NextEra,United States,900,1800,0.5,900
+36.0079494,-121.24,Fort Hunter Liggett Battery Storage Project,United States,1000,1000,1,1000
+40.74502245,-73.77704494,Green Charge Networks Lithium Ion Distributed Energy Storage System at 7-Eleven,United States,100,100,1,100
+40.7738339,-73.8861812,La Guardia Airport Avis Car Rental - Green Charge Networks,United States,160,100,1.6,160
+41.78210425,-88.17288548,Ice Energy project at 1200 W Ogden Ave,United States,60,10,6,60
+41.9036415,-88.3033342,St Charles City Purchasing Department - Ice Energy,United States,60,10,6,60
+42.064113,-87.685746,Ice Energy project at 1028 Central St.,United States,60,10,6,60
+44.7980186,-93.5268986,Shakopee Public Utilities- Environmental Learning Center,United States,18,9,2,18
+33.38103821,-112.0472164,Ice Energy project at 7211 S. 16TH ST,United States,60,10,6,60
+40.8192673,-73.9493043,UEP CCNY Demonstration,United States,200,100,2,200
+33.921228,-117.199934,Ice Energy project at 27140 Eucalyptus Ave Suite A,United States,60,10,6,60
+33.921228,-117.199934,Ice Energy project at 27130 Eucalyptus Ave Ste D,United States,120,20,6,120
+33.921228,-117.199934,Ice Energy project at 27110 Eucalyptus Ave ste E,United States,60,10,6,60
+33.921228,-117.199934,Ice Energy project at 27120 Eucalyptus Ave Ste B,United States,120,20,6,120
+40.59201765,-122.3542629,Kohl's Department Store - Ice Energy,United States,120,20,6,120
+40.62084286,-122.3703527,Ice Energy project at 950 Twin View Blvd,United States,120,20,6,120
+40.58114683,-122.3543054,Ice Energy project at 1894 Churn Creek Rd,United States,720,120,6,720
+34.13571985,-117.9050175,Ice Energy project at 729 North Dalton Ave.,United States,240,40,6,240
+37.71708863,-122.4055032,San Francisco Residence - Ice Energy,United States,120,20,6,120
+41.26218375,-73.00631746,Ice Energy project at 348 Boston Post Road,United States,60,10,6,60
+41.26140035,-73.00910026,Ice Energy project at 385 Boston Post Road,United States,60,10,6,60
+40.5706629,-122.363832,Redding Subaru - Ice Energy,United States,180,30,6,180
+40.56387114,-122.3462374,Valley Ace Hardware - Ice Energy,United States,180,30,6,180
+40.58013331,-122.3906248,Mountain View Medical Group - Ice Energy,United States,180,30,6,180
+40.5812978,-122.3911344,Angelo's Pizza Parlor - Ice Energy,United States,120,20,6,120
+40.5885569,-122.390241,The Old Pine St Schoolhouse (Cheesecakes Unlimited Restaurant) - Ice Energy,United States,240,40,6,240
+45.0880899,-93.72,Wright-Hennepin Solar Community,United States,74,37,2,74
+32.918396,-112.97,Solana Solar Generating Plant,United States,1680000,280000,6,1680000
+42.90133269,-70.88268793,"SustainX Inc Isothermal Compressed Air Energy Storage - 1.5MW pilot system in Seabrook, New Hampshire",United States,1500,1500,1,1500
+20.23779785,-155.8148948,SkyGrid Energy,United States,25,100,0.25,25
+39.3836709,-76.45110327,GM E-Motor Charging Station & Microgrid,United States,30,30,1,30
+33.51187515,-117.1471223,Wilson Creek Winery - Ice Energy,United States,1260,210,6,1260
+43.6610277,-70.2548596,"Portland Maine ATLAS (Aggregated Transactive Load Asset) - VCharge, Inc.",United States,1500,300,5,1500
+34.6929949,-118.1657465,Ice Energy project at 20th Street West,United States,60,10,6,60
+34.69659,-118.1362378,Ice Energy project at 33317 Santiago Road,United States,60,10,6,60
+34.70350265,-118.152086,Ice Energy project at 1228 West Ave I,United States,60,10,6,60
+33.8302961,-116.55,29 Palms Durathon Battery Project,United States,1000,500,2,1000
+39.629526,-79.96,Allegheny Power Demonstration Project (RDSI) - West Virginia Super Circuit,United States,48,24,2,48
+40.9645293,-76.88,Bucknell University Thermal Energy Storage,United States,8000,1000,8,8000
+32.8776555,-117.2432723,UCSD BMW 2nd Life EV Energy Storage System,United States,180.36,108,1.67,180.36
+27.7703796,-82.6695085,St. Petersburg Solar Parks Project - EnSync Energy (formerly ZBB),United States,50,25,2,50
+40.96470137,-73.87232303,Walgreens - Green Charge Network,United States,63.99,27,2.37,63.99
+37.4016481,-122.0076931,49er Stadium Green Charge Networks GreenStation,United States,30,30,1,30
+37.52997315,-122.2580937,Redwood City Public Library Green Charge Networks Greenstation,United States,30,30,1,30
+33.0786552,-116.6,SDG&E Julian - S&C / Kokam,United States,2300,1000,2.3,2300
+32.9436607,-117.21,SDG&E Carmel Valley - Saft / ABB,United States,3000,1000,3,3000
+31.4498855,-98.57,Goldthwaite Storage-Invenergy,United States,1200,600,2,1200
+33.8788419,-117.8831641,CSU Fullerton Greenstation - Green Charge Networks,United States,480,480,1,480
+39.7408399,-105.17,NREL American Vanadium CellCube Test Site,United States,80,20,4,80
+35.036143,-118.28,Tehachapi Wind Energy Storage Project - Southern California Edison,United States,32000,8000,4,32000
+35.7749644,-78.64,State of North Carolina - DN Tanks,United States,20720,2590,8,20720
+41.9294736,-88.75,Lee DeKalb Energy Storage - NextEra,United States,10000,20000,0.5,10000
+43.8764706,-69.6336571,GridSolar Boothbay Pilot Project: Thermal Storage (Peak Shaving),United States,1768,221,8,1768
+34.1424258,-118.0008149,South Coast Air Quality Management District - CODA BESS 1+2,United States,500,1000,0.5,500
+39.71577024,-121.79542,Butte College Green Charge Networks GreenStation,United States,30,30,1,30
+40.76177471,-73.99825214,Green Charge Networks (43rd Street Site 1),United States,94.5,27,3.5,94.5
+40.76177471,-73.99825214,Green Charge Networks (43rd Street Site 2),United States,94.5,27,3.5,94.5
+40.76177471,-73.99825214,Green Charge Networks (43rd Street Site 3),United States,94.5,27,3.5,94.5
+40.9568399,-76.0275859,Beacon Power 20 MW Flywheel Frequency Regulation Plant - 200 Beacon Power Series 400 flywheels,United States,5000,20000,0.25,5000
+33.4209412,-117.4321452,Camp Pendleton Fractal Grid Demonstration - 30kW,United States,120,30,4,120
+43.8764706,-69.6336571,GridSolar Boothbay Pilot Project: Thermal Storage (Demand Response),United States,87,29,3,87
+34.14161784,-118.0000067,Monrovia South Coast Air Quality Management District BESS 3 - CODA Energy Holdings,United States,1377,510,2.7,1377
+57.1224981,-170.2799461,St Paul Island Wind/Diesel/Beacon Flywheel Power Plant Demonstration - TDX Power 160 kW,United States,128,160,0.8,128
+32.7145978,-117.1614798,San Diego Repertory - Stem,United States,144,36,4,144
+38.237766,-117.38,Crescent Dunes Solar Energy Project,United States,1100000,110000,10,1100000
+32.8776555,-117.2432723,UCSD - Maxwell Technologies Ultracapacitor Bank,United States,22.4,28,0.8,22.4
+26.3344266,127.81,Okinawa Battery System,United States,1500,1500,1,1500
+37.4231222,-122.0946938,Peak Shaving Battery at BMW Technology,United States,233,100,2.33,233
+42.3071051,-71.3969032,"BJ's Wholesale Club - SolarCity / Direct Energy - (Framingham, MA)",United States,400,200,2,400
+43.8993645,-69.6143665,GridSolar Boothbay Pilot Project: BESS,United States,3000,500,6,3000
+36.06523,-119.02,Terra Verde/SolarCity - Burton School District Energy Storage & PV Project,United States,720,360,2,720
+19.641941,-155.996933,Natural Energy Laboratory of Hawaii Authority (NELHA) - Aquion Energy,United States,21.7,10,2.17,21.7
+40.67545985,-73.6691672,LIRR Malverne WESS: Ioxus,United States,200,1000,0.2,200
+37.7749295,-122.42,Powertree Services San Francisco One,United States,5875.2,3264,1.8,5875.2
+33.6588951,-117.83,SCE Irvine Smart Grid Demonstration: Containerized Distributed Storage Unit,United States,500,2000,0.25,500
+41.4885773,-88.0997939,Jake Energy Storage Center: RES Americas,United States,50094,19800,2.53,50094
+41.89889,-88.223046,Elwood Energy Storage Center: RES Americas,United States,50094,19800,2.53,50094
+32.8776555,-117.2432723,UCSD - BYD Energy Storage System,United States,5000,2500,2,5000
+43.619416,-72.95,Stafford Hill Solar Farm & Microgrid: Lithium Ion,United States,1700,2000,0.85,1700
+43.619416,-72.95,Stafford Hill Solar Farm & Microgrid: Lead Acid,United States,2400,2000,1.2,2400
+22.1452778,-159.32,Anahola Solar Array and Battery - Kauai Island Utility Cooperative & REC Solar,United States,4980,6000,0.83,4980
+40.022493,-78.93,Meyersdale Energy Storage - NextEra,United States,9000,18000,0.5,9000
+40.022493,-78.93,Green Mountain Energy Storage - NextEra,United States,10400,10400,1,10400
+33.107312,-117.117057,30 kW Smart Storage at Baker Electric Corporate Headquarters,United States,80.1,30,2.67,80.1
+37.7652065,-122.2416355,Amber Kinetics Flywheel Energy Storage Demonstration - Full-scale Mechanical Flywheel Battery,United States,25,25,1,25
+32.5920798,-96.7561083,Oncor's System Operating Services Facility Microgrid: 200 kW Tesla Battery,United States,400,200,2,400
+32.575595,-96.758266,Oncor's System Operating Services Facility (SOSF) Microgrid: 25 kW S&C Electric Battery,United States,25,25,1,25
+36.9958839,-85.91,Glasgow Electric Plant Board - Sunverge 165 Home Pilot,United States,1900.8,990,1.92,1900.8
+47.9366554,-122.2439622,SNOPUD MESA 1a Project,United States,500,1000,0.5,500
+37.226611,-121.9746797,JuiceBox Residential solar energy storage - AC-coupled peak-shifting and backup,United States,5.85,5,1.17,5.85
+19.8547732,-155.92,Bakken Hale Microgrid,United States,1012.5,450,2.25,1012.5
+37.31966505,-121.8955159,Gardner Community Center Grid Resiliency with JuiceBox Energy Storage System,United States,9,6,1.5,9
+32.7477063,-117.128479,Mike Hess Brewing- Green Charge Networks,United States,60,30,2,60
+32.8683071,-117.0683015,DOD Marine Corps Air Station Miramar Microgrid Energy Storage System,United States,1000,250,4,1000
+40.7127837,-74.01,500 kW / 800 kWh - Electrovaya Transportable Energy Storage,United States,800,500,1.6,800
+61.2163129,-149.894852,Anchorage Area Battery Energy Storage System,United States,14250,25000,0.57,14250
+42.2625621,-71.8018877,"Distributed Energy Storage Systems Demonstration (Worcester, MA) - National Grid ",United States,3000,500,6,3000
+32.8753618,-117.24,UCSD EV Smart Charging with Energy Storage,United States,100.2,60,1.67,100.2
+43.5060567,-112.046727,Idaho National Laboratory - ViZn,United States,320,128,2.5,320
+37.95325609,-122.5491337,College of Marin Kentfield Campus - Tesla,United States,4800,2400,2,4800
+29.4241219,-98.49,Younicos-OCI Solar Power-Austin,United States,4000,1000,4,4000
+40.8829072,-123.98,Blue Lake Rancheria Native American Reservation Microgrid - 950 kWh,United States,950,950,1,950
+32.792,-115.56,Imperial Irrigation District BESS - GE,United States,20100,30000,0.67,20100
+36.844732,-119.718341,Wawona Frozen Foods - MMR Power Solutions,United States,500,250,2,500
+47.9789848,-122.2,Snohomish PUD - MESA 2,United States,8000,2000,4,8000
+42.40843,-71.0536625,"Distributed Energy Storage Systems Demonstration (Everett, MA) - National Grid ",United States,3000,500,6,3000
+33.78372341,-118.1222338,California State University Long Beach Campus - AMS,United States,6000,1000,6,6000
+32.2217429,-110.93,Tucson Electric Power (TEP) - NextEra,United States,5000,10000,0.5,5000
+40.394322,-84.386091,Village of Minster - S&C Electric Company,United States,2940,7000,0.42,2940
+17.9774677,-66.2978873,Horizon Energy Solar Farm Storage System - Sonnedix / Aquion Energy,United States,1250,250,5,1250
+39.7392358,-104.99,Panasonic Enterprise Solutions Facility (Xcel Energy Storage),United States,2000,1000,2,2000
+32.2217429,-110.93,University of Arizona Science and Technology Park  / TEP - E.ON,United States,5000,10000,0.5,5000
+33.7658836,-118.2018558,California State University Chancellor's Office - AMS,United States,1500,250,6,1500
+44.94124429,-93.18965748,University of St Thomas Renewable Energy Facility,United States,2000,250,8,2000
+34.1378838,-118.2672383,Glendale Water and Power/Skylar Energy BESS Pilot,United States,960,2000,0.48,960
+33.8652863,-118.2590506,California State University Dominguez Hills Campus - AMS,United States,4500,750,6,4500
+33.74248485,-118.2613693,Green Omni Terminal Demonstration Project,United States,2600,2600,1,2600
+43.2811651,-73.0048631,Emerald Lake State Park,United States,10,10,1,10
+34.1063989,-117.59,SCE LM6000 Hybrid EGT - Grapeland,United States,4200,10000,0.42,4200
+41.0359353,-71.95,Deepwater Wind-New York,United States,60000,15000,4,60000
+37.79569215,-122.3992637,One Maritime Plaza - Advanced Microgrid Solutions (AMS),United States,1000,500,2,1000
+32.7174202,-117.1627728,"SDG&E / Hecate Energy Bancroft - (San Diego, CA)",United States,80000,20000,4,80000
+37.9175935,-121.171038,PG&amp;E Advanced Underground Compressed Air Energy Storage (CAES) -  300 MW A-CAES demo plant,United States,3000000,300000,10,3000000
+36.0988489,-119.88,Kings County Energy Storage - PG&E Henrietta Substation,United States,40000,10000,4,40000
+33.7174708,-117.83,Convergent 35 MW / 140 MWh - SCE,United States,140000,35000,4,140000
+36.6783938,-119.9277947,20 MW / 80 MWh - Energy Nuevo - Amber Kinetics,United States,80000,20000,4,80000
+48.2359399,-114.28,Flathead Electric ViZn Z20,United States,160,80,2,160
+41.3308666,-88.71,Grand Ridge Energy Storage 31.5 MW,United States,11970,31500,0.38,11970
+41.3308666,-88.71,Invenergy Grand Ridge Wind Project BESS,United States,11970,31500,0.38,11970
+33.5965685,-117.659405,Franchise Services - JLM Energy,United States,120,60,2,120
+37.3586027,-122.0671533,MVLA High School District - Mountain View HS,United States,400,200,2,400
+33.12,-117.09,Olivenhain-Hodges Storage Project,United States,240000,40000,6,240000
+30.0689883,-89.8031821,Entergy Chef Menteur Highway 500 kW Energy Storage,United States,500,500,1,500
+47.6739881,-122.12,Clean Energy Storage: Sun Buzz,United States,25,5,5,25
+39.3685167,-107.04,Rocky Mountain Institute Innovation Center,United States,45,30,1.5,45
+35.29315669,-81.02474807,Duke Energy Rankin Substation - Win Inertia / Aquion Energy,United States,300,50,6,300
+35.29315669,-81.02474807,Duke Energy Rankin Substation - Win Inertia / Maxwell,United States,75,250,0.3,75
+37.71782845,-121.8879894,Santa Rita Jail Smart Grid - Alameda County RDSI CERTS Microgrid Demonstration,United States,4000,2000,2,4000
+39.98689012,-75.13004339,SEPTA Recycled Energy and Optimization Project - Viridity Energy,United States,400,800,0.5,400
+40.7481266,-74.01,Schooner America 2.0 Electric Populsion,United States,625,250,2.5,625
+40.4776121,-75.77,East Penn Manufacturing Co. Grid-Scale Energy Storage Demonstration,United States,2160,3000,0.72,2160
+41.910738,-83.43,Community Energy Storage for Grid Support (Residential CES Units) - DTE Energy,United States,1000,500,2,1000
+40.5813072,-122.3776083,Ice Energy Project at 1540 Charles Dr Ste B,United States,60,10,6,60
+40.017107,-75.084547,SEPTA Wayside Energy Storage System - Viridity Energy,United States,450,900,0.5,450
+40.017107,-75.084547,SEPTA Wayside Energy Storage System - Griscom Ultracapacitors,United States,49,70,0.7,49
+35.2272086,-80.8430827,McAlpine Circuit CES System,United States,50,50,1,50
+39.7566228,-104.62,Xcel Energy - Xtreme Power,United States,1005,1500,0.67,1005
+31.8072113,-106.43,Fort Bliss Microgrid - Lockheed Martin,United States,99,300,0.33,99
+34.0005691,-118.16,Net Zero Plus Electric Training Institute (NZP-ETI) - Solar Plus Storage,United States,250,500,0.5,250
+42.508645,-83.41,Nissan Technical Center North America,United States,22800,1425,16,22800
+40.56610748,-122.368486,Ice Energy project at 280 Hartnell Ave,United States,120,20,6,120
+40.54787428,-122.3792334,Ice Energy project at 2680 Radio Ln,United States,1020,170,6,1020
+38.5743919,-121.5081799,SMUD 2500 R St. Housing Development,United States,394.74,153,2.58,394.74
+28.59899755,-81.19712501,University of Central Florida - DN Tanks,United States,24000,3000,8,24000
+20.6871749,-156.4390415,"University of Hawaii Smart Grid Regional and Energy Storage Demonstration Project (Maui Smart Grid) - Maui Electric Company & NEC Energy Solutions, Inc.",United States,1000,1000,1,1000
+46.7270506,-117.1467957,Washington State University 1 MW UET Flow Battery - Avista Utilities,United States,3200,1000,3.2,3200
+34.087225,-118.2918217,Los Angeles Community College District - Calmac,United States,27720,4620,6,27720
+35.87576905,-106.3110716,Japan-US Collaborative Smart Grid Project,United States,6000,1000,6,6000
+34.0398353,-85.2227791,"1 MW / 2 MWh - EPRI + Southern Company Pilot BESS - Cedartown, Georgia",United States,2000,1000,2,2000
+40.57787115,-122.3542245,Ice Energy project at 2010 Churn Creek Rd,United States,120,20,6,120
+40.61151949,-122.3822139,Ice Energy project at 100 Lake Blvd,United States,120,20,6,120
+33.65068625,-117.7497199,20 Pacifica Irvine Co - AMS Hybrid-Electric Building,United States,1500,250,6,1500
+21.2920698,-157.846227,Nordstrom (Ala Moana Center) - Calmac,United States,7200,1200,6,7200
+38.05237612,-122.1525948,Geli EOS enabled CODA Core System (City of Benicia City Hall),United States,40,20,2,40
+34.1908099,-119.16,Gills Onions - Prudent Energy VRB-ESS,United States,3600,600,6,3600
+64.8377778,-147.72,Golden Valley Electric Association (GVEA) Battery Energy Storage System (BESS),United States,6750,27000,0.25,6750
+34.0945216,-117.5721771,"20 kW / 72 kWh ICL Fire Retardant Production Site - Rancho Cucamonga, CA",United States,72,20,3.6,72
+34.1424258,-118.0008149,CODA Energy - CORE 40/30,United States,39.9,30,1.33,39.9
+37.30620385,-121.7519767,Yerba Buena Battery Energy Storage Pilot Project - Pacific Gas & Electric Company,United States,28000,4000,7,28000
+39.71369071,-86.18708871,IPL Advancion Energy Storage Array,United States,20000,20000,1,20000
+40.261109,-82.83,RES Battery Utility of Ohio,United States,2600,4000,0.65,2600
+33.7513419,-117.99,SCE LESTA: 2 MW A123 Test,United States,500,2000,0.25,500
+20.7909697,-156.33,Auwahi Wind Farm,United States,27500,11000,2.5,27500
+33.0959158,-117.1035102,Del Lago Academy (IES),United States,200,100,2,200
+33.1216125,-117.3185793,Carlsbad 7-Eleven Green Charge Networks Greenstation,United States,30,30,1,30
+37.6818745,-121.77,Golden Hills - NextEra Energy,United States,60000,30000,2,60000
+42.3039993,-88.4,McHenry Battery Storage Project - EDF Renewable Energy,United States,46600,20000,2.33,46600
+29.65153375,-82.32156145,Alachua County Library,United States,900,100,9,900
+33.5369476,-117.0517789,Ponte Winery - Ice Energy,United States,360,60,6,360
+40.573999,-122.373735,Tortilla Flats Restaurant - Ice Energy,United States,120,20,6,120
+40.62652188,-122.3842207,Skyway Recreation Products - Ice Energy,United States,120,20,6,120
+31.7509852,-106.3652665,EPCC Thermal Storage: Valle Verde,United States,7440,930,8,7440
+38.2930864,-122.457675,Stone Edge Farm Winery- All Iron Flow Battery (IFB),United States,60,10,6,60
+33.5934104,-102.03,Technology Solutions for Wind Integration - Center For Commercialization of Electric Technology (CCET),United States,1000,1000,1,1000
+43.15076665,-89.29613801,Alliant Energy - Solar Demonstration Project,United States,30,30,1,30
+41.9165863,-83.46907334,Monroe Community College CES Unit for Grid Support - DTE Energy,United States,250,500,0.5,250
+34.1291051,-117.8891239,Ice Energy project at 901 E Alosta Ave,United States,720,120,6,720
+34.1344841,-117.8970195,Ice Energy project at 701 E. Foothill Blvd,United States,720,120,6,720
+21.9661076,-159.57,Kaua'i Dispatchable Solar Storage - 13 MW / 52MWh  - SolarCity,United States,52000,13000,4,52000
+34.4480495,-119.242889,Taft Botanical Gardens - SimpliPhi Power,United States,40,10,4,40
+37.526323,-120.8,EnerVault Redox Flow Battery Demo Project,United States,1000,250,4,1000
+33.78659,-117.88,SCE Distributed Energy Storage Integration (DESI) Pilot 1,United States,3888,2400,1.62,3888
+33.97983212,-118.1429253,PDE Smart Microgrid System,United States,29.7,90,0.33,29.7
+40.9999202,-80.3471856,"Axion PowerCube for PJM (New Castle, PA)",United States,250,500,0.5,250
+34.2204227,-118.3878945,Airbnb and kitHAUS Microgrid Pop Up House,United States,5,5,1,5
+37.7949618,-122.2627932,Laney College Green Charge Networks GreenStation,United States,30,30,1,30
+37.78986994,-122.1684513,Merritt College Green Charge Networks GreenStation,United States,30,30,1,30
+37.7936847,-122.2612767,Peralta College Green Charge Networks GreenStation,United States,30,30,1,30
+34.69814135,-118.1418401,Lancaster MOAH Green Charge Networks Greenstation,United States,30,30,1,30
+33.1192068,-117.09,Escondido Energy Storage,United States,120000,30000,4,120000
+40.6085255,-122.3782915,Redding Furniture and Mattress - Ice Energy,United States,240,40,6,240
+40.51295786,-105.0198541,Fossil Ridge High School,United States,1600,200,8,1600
+39.8440027,-75.02,CrystEna 1 MW Energy Storage System- Demansys Energy Inc.,United States,450,1000,0.45,450
+33.936265,-117.18646,Ice Energy project at 27200 Eucalyptus Ave,United States,120,20,6,120
+38.2830361,-104.5345853,Pueblo Air Cooled Run Test Facility - Calmac,United States,14068,3517,4,14068
+38.2830361,-104.5345853,Pueblo West Factory Building - Calmac,United States,14068,3517,4,14068
+47.9366554,-122.2439622,Everett MESA 1b Project - SNOPUD,United States,500,1000,0.5,500
+38.27134251,-122.4385839,Stone Edge Farm Winery - Aquion Energy,United States,350.1,30,11.67,350.1
+38.3498195,-81.63,Charleston NaS Energy Storage Project - AEP,United States,7200,1200,6,7200
+29.95213155,-90.07729185,New Orleans City Hall - PosiGen / SimpliPhi Power,United States,20,10,2,20
+46.8385968,-92.08302584,Hartley Nature Center,United States,14.22,6,2.37,14.22
+40.57651929,-122.3577323,Ice Energy project at 2143 Hilltop Dr,United States,120,20,6,120
+40.5813072,-122.3776083,Ice Energy project at 2155 Hilltop Dr Ste A,United States,60,10,6,60
+40.57673492,-122.3577268,Ice Energy project at 2131 Hilltop Dr,United States,60,10,6,60
+37.6390972,-120.9968782,Modesto Irrigation District - Primus Power,United States,112000,28000,4,112000
+43.8006208,-70.19,Nextera Wyman,United States,8100,16200,0.5,8100
+33.1192068,-117.09,Escondido School District-Tesla,United States,630,150,4.2,630
+37.5482697,-121.99,SolarCity / Tesla / Princeton Power EV Charging Station (Fremont Site 2),United States,30,30,1,30
+44.440095,-73.15234,Dynapower Company HQ micro-grid,United States,251.25,375,0.67,251.25
+38,-121.4,"8 MWh Con Edison & GE - Central Valley, CA",United States,8000,2000,4,8000
+48.76504271,-114.2890395,Polebridge Mercantile & Cabins,United States,44,22,2,44
+33.2464523,-119.5,San Nicolas Island Naval Facility - EnSync Energy (formerly ZBB),United States,1000,500,2,1000
+39.0300191,-77.46964647,VISA (Data Processing Center),United States,50,25,2,50
+35.6507888,-117.66173,China Lake Microgrid,United States,800,200,4,800
+38.65075258,-121.1226436,Wholefood Signage System,United States,25,1,25,25
+43.1915361,-77.6612012,Arista Durathon Battery Project,United States,200,100,2,200
+47.8887886,-122.29,UET HQ Mukilteo BESS,United States,1800,600,3,1800
+39.7546349,-105.2205809,"US NORTHCOM BESS project - Erigo Technologies, EaglePicher Technologies",United States,384,300,1.28,384
+21.304547,-157.855676,Joint Base Pearl Harbor Hickam (JBPHH) U.S. Military Base,United States,416.25,125,3.33,416.25
+40.14976132,-88.27290628,EnerDel Mobile Hybrid Power System,United States,79.95,15,5.33,79.95
+21.42849845,-158.0161857,Ensync Distributed Energy Management: Aquion,United States,87.5,25,3.5,87.5
+20.74886268,-156.4456087,RDT&E for Advanced Energy Storage & Management Demonstration for USAF High Energy Demand Operations and Facilities,United States,200,100,2,200
+38.4497134,-123.12,Aquion AHI at Redwood Gate Ranch,United States,60,15,4,60
+21.4508308,-158.0095783,Mari's Gardens Aquion Energy,United States,20,10,2,20
+34.6809319,-98.57088468,Fort Sill Microgrid - EnSync (Formerly ZBB),United States,500,250,2,500
+33.5080818,-86.79,JLM Energy: Alabama Solar-tied,United States,300,300,1,300
+33.4483771,-112.07,PV and EV Charging Systems at Sporting Venue,United States,50,25,2,50
+37.82672135,-122.422759,Alcatraz Island Microgrid,United States,1900,400,4.75,1900
+40.6955044,-74.23,Bysolar Hillside ESS for PJM Frequency Regulation,United States,500,500,1,500
+38.8737066,-76.9957732,DC Naval Yard Zero Energy Building,United States,48,16,3,48
+32.8776555,-117.2432723,UC San Diego ZBB / SunPower Energy Storage,United States,300,100,3,300
+46.8591287,-88.7774734,National Park Service Isle Royale,United States,200,100,2,200
+37.771671,-122.401621,Adobe Baker and Hamilton Building Stem System,United States,181.44,162,1.12,181.44
+34.39,-117.4,Clean Energy Storage: Golden Bridge Development,United States,15,5,3,15
+37.931868,-121.7,Clean Energy Storage: Berkes,United States,77,11,7,77
+36.988562,-121.81,Clean Energy Storage: Dibene,United States,192,24,8,192
+41.83429985,-87.62926175,Illinois Institute of Technology RDSI Perfect Power Demonstration - EnSync Energy (formerly ZBB),United States,500,250,2,500
+34.058061,-117.471388,Cox Enterprises Stem PowerStore System,United States,18,18,1,18
+33.5701909,-117.7264075,Green Charge Networks Greenstation (Aliso Viejo Site 1),United States,30,30,1,30
+47.9789848,-122.2,Clean Energy Storage: Nagasawa,United States,25,5,5,25
+40.74438495,-73.95730377,Rose City Lights,United States,900,225,4,900
+20.74962204,-156.4402813,Maui Brewing Company Microgrid,United States,90.93,21,4.33,90.93
+46.716439,-122.960801,Clean Energy Storage: Centralia College,United States,40,5,8,40
+47.6062095,-122.33,Clean Energy Storage: Steel Project,United States,20,5,4,20
+47.6062095,-122.33,Clean Energy Storage: Devinenini,United States,20,5,4,20
+41.2331116,-80.49,Axion Power International-Sharon-12.5 MW,United States,12500,12500,1,12500
+38.7733961,-75.1379574,"Lewes BPW / Alevo - 8 MW - (Lewes, Delaware)",United States,4000,8000,0.5,4000
+32.7783843,-116.99,Grossmont Union High School District,United States,7400,1850,4,7400
+39.158168,-75.52,Sunvault Energy-Edison Power- Delaware Fire Station,United States,300,600,0.5,300
+32.8776555,-117.2432723,UCSD SGIP PV Projects,United States,365,730,0.5,365
+40.6804279,-122.37,GE and Con Edison 8 MWh,United States,8000,2000,4,8000
+37.6688205,-122.08,Seeo Inc. Solid State Batteries for Grid-Scale Energy Storage,United States,25,100,0.25,25
+39.4453393,-83.83,Clinton County BESS - Exelon / RES,United States,250000,10000,25,250000
+41.9837014,-87.6527002,Shedd Aquarium-1MW lithium-ion battery,United States,280,1000,0.28,280
+32.8776555,-117.2432723,UCSD MCV 35 kW,United States,35,35,1,35
+32.8776555,-117.2432723,UCSD Sunverge 10 kW,United States,10,10,1,10
+35.8880796,-106.31,NEDO New Mexico Smart Grid Demonstration Project,United States,800,800,1,800
+37.5629917,-122.33,SolarCity Walmart Solar Storage Projects California,United States,400,200,2,400
+41.6032207,-73.09,Connecticut Municipal Electric Energy Cooperative (CMEEC) - SolarCity / Brightfields Development,United States,6000,1500,4,6000
+33.96746255,-117.6759192,Inland Empire Utilities Agency (IEUA) - AMS,United States,8000,4000,2,8000
+37.487561,-122.226784,Redwood City Parking Garage Green Charge Networks Greenstation,United States,30,30,1,30
+33.91737514,-118.0901529,Green Charge Networks Greenstation (Norwalk Site 1),United States,30,30,1,30
+32.816833,-117.155183,Green Charge Networks Greenstation (San Diego Site 1),United States,30,30,1,30
+32.80603145,-117.2187434,Green Charge Networks Greenstation (San Diego Site 2),United States,30,30,1,30
+40.9514874,-73.8879132,Green Charge Networks (Yonkers Site 1),United States,96,96,1,96
+42.2486332,-88.61,Marengo Project,United States,5000,20000,0.25,5000
+41.272,-73.778,New York's First Completed Solar Energy Storage Project,United States,1960,490,4,1960
+30.6332618,-97.68,Rabbit Hill Energy Storage Project,United States,5000,10000,0.5,5000
+30.6332618,-97.68,Rabbit Hill Energy Storage Project,United States,12276,9900,1.24,12276
+44.36107816,-73.0741812,Hinesburg Energy Storage System,United States,5000,2000,2.5,5000
+40.110048,-74.497357,Plumsted Energy Storage,United States,20000,20000,1,20000
+40.660985,-75.136857,Stryker Energy Storage,United States,20000,20000,1,20000
+39.38177,-74.44907,Atlantic County Utility Authority,United States,1000,1000,1,1000
+39.3995008,-84.56,Willey Energy Storage Project,United States,40000,10000,4,40000
+33.9760102,-118.4181654,Green Charge Networks Greenstation (Playa Vista Site 1),United States,30,30,1,30
+39.7817213,-89.65,Comed-Bronzeville-Demo,United States,2000,1000,2,2000
+59.8771655,-163.1495591,Kwigillingok Wind-Diesel Battery Hybrid,United States,62.5,250,0.25,62.5
+66.8983333,-162.6,Kotzebue Electric Association - Saft,United States,945,2100,0.45,945
+40.7127281,-74.0060152,Con Edison/Eos Energy Storage Distributed Energy Storage Pilot,United States,6000,1000,6,6000
+29.9510658,-90.07,Entergy Solar-Plus-Storage Pilot Project,United States,500,1000,0.5,500
+38.6779591,-121.18,3 MW - PG&E Clarksville Substation- Western Grid,United States,6000,3000,2,6000
+34.0805651,-118.07,SCE Home Battery Pilot,United States,200,80,2.5,200
+33.9022367,-118.08,SCE LM6000 Hybrid EGT - Center,United States,4200,10000,0.42,4200
+33.6387024,-117.84,SCE Irvine Smart Grid Demonstration: CES,United States,50,25,2,50
+33.6839473,-117.79,SCE Irvine Smart Grid Demonstration: Solar Car Charging Station,United States,100,100,1,100
+33.7383271,-117.8930441,Discovery Science Center Durathon Battery,United States,500,100,5,500
+39.978371,-86.12,Clay Terrace Plug-In Ecosystem,United States,50.25,75,0.67,50.25
+47.6144219,-122.192337,PSE Storage Innovation Project 2,United States,4400,2000,2.2,4400
+39.9650746,-83.00544185,AEP Ohio gridSMART Demonstration Project,United States,100,100,1,100
+30.3952976,-97.74,Pecan Street Project Inc. Energy Internet Demonstration,United States,37.5,15,2.5,37.5
+39.3995008,-84.56,Willey Energy Storage Project,United States,1980,6000,0.33,1980
+33.5016932,-117.6625509,"SDGE C1243 Ortega HWY, GRC ES Program Unit 6",United States,3000,1000,3,3000
+32.799466,-116.9510045,"SDGE C75 Mt San Miguel, GRC ES Program Unit 7",United States,3000,1000,3,3000
+36.6783938,-119.93,1 MW - PG&E Old Kearney Substation - Hecate Energy,United States,2000,1000,2,2000
+39.258289,-123.22,PG&E Mendocino Substation 1 MW Energy Storage System - Hecate Energy,United States,2000,1000,2,2000
+33.2566792,-116.3782682,"SDGE Borrego SES, GRC ES Program Unit 5",United States,3000,1000,3,3000
+33.3426566,-118.318384,SCE Catalina Island Energy Storage,United States,7200,1000,7.2,7200
+33.2558717,-116.38,Borrego Springs Microgrid - SDG&E,United States,1500,500,3,1500
+30.1200111,-95.37,Discovery at Spring Trails Residential Energy Storage,United States,420,30,14,420
+36.80287166,-119.8623862,Green Charge Networks GreenStation Announced 5,United States,180,180,1,180
+36.82385166,-119.6976737,Green Charge Networks GreenStation Announced 7,United States,60,60,1,60
+36.8641913,-119.6390578,Green Charge Networks GreenStation Announced 8,United States,60,60,1,60
+36.85930408,-119.7630251,Green Charge Networks GreenStation Announced 11,United States,60,60,1,60
+36.81649333,-119.808477,Green Charge Networks GreenStation Announced 1,United States,120,120,1,120
+36.7212902,-119.8060144,Green Charge Networks GreenStation Announced 2,United States,60,60,1,60
+36.76620637,-119.8042239,Green Charge Networks GreenStation Announced 3,United States,60,60,1,60
+36.8563985,-119.7751667,Green Charge Networks GreenStation Announced 4,United States,60,60,1,60
+32.75339358,-117.1300642,Green Charge Networks GreenStation Announced 19,United States,120,60,2,120
+33.0209308,-117.0722018,Green Charge Networks GreenStation Announced 20,United States,120,60,2,120
+32.80863372,-117.1159837,Green Charge Networks GreenStation Announced 21,United States,120,60,2,120
+32.9941333,-117.2544345,Green Charge Networks GreenStation Announced 24,United States,120,60,2,120
+32.71854665,-117.1695199,Green Charge Networks GreenStation Announced 33,United States,60,30,2,60
+32.82917201,-117.1327609,Green Charge Networks GreenStation Announced 34,United States,120,60,2,120
+32.7157969,-117.1693572,Green Charge Networks GreenStation Announced 18,United States,180,90,2,180
+33.9863913,-117.5227325,Green Charge Networks GreenStation Announced 22,United States,60,30,2,60
+34.1883735,-119.2220629,Green Charge Networks GreenStation Announced 23,United States,60,30,2,60
+36.9886992,-121.9550714,Green Charge Networks GreenStation Announced 25,United States,60,30,2,60
+34.0183853,-118.0338542,Green Charge Networks GreenStation Announced 26,United States,400,200,2,400
+33.7415456,-117.031222,Green Charge Networks GreenStation Announced 27,United States,120,60,2,120
+34.0990733,-118.1085682,Green Charge Networks GreenStation Announced 28,United States,120,60,2,120
+33.67334875,-117.9560726,Green Charge Networks GreenStation Announced 29,United States,180,90,2,180
+34.0574169,-117.1733065,Green Charge Networks GreenStation Announced 30,United States,800,400,2,800
+37.4922157,-122.22432,Green Charge Networks GreenStation Announced 31,United States,180,90,2,180
+36.8644602,-119.7112081,Green Charge Networks GreenStation Announced 6,United States,400,200,2,400
+36.81720479,-119.6820585,Green Charge Networks GreenStation Announced 9,United States,400,200,2,400
+36.8916092,-119.7340863,Green Charge Networks GreenStation Announced 10,United States,400,200,2,400
+37.723561,-122.400192,Green Charge Networks GreenStation Announced 13,United States,2000,1000,2,2000
+33.975344,-118.034833,Green Charge Networks GreenStation Announced 14,United States,120,60,2,120
+34.2782985,-119.2281025,Green Charge Networks GreenStation Announced 15,United States,400,200,2,400
+34.163043,-119.159316,Green Charge Networks GreenStation Announced 16,United States,400,200,2,400
+34.2848669,-118.8778891,Green Charge Networks GreenStation Announced 17,United States,800,400,2,800
+34.425207,-119.703244,County of Santa Barbara Green Charge Networks GreenStation,United States,30,30,1,30
+34.584807,-120.1441616,California Fresh Market Green Charge Networks GreenStation,United States,30,30,1,30
+38.00466675,-122.5551134,Kaiser Permanente San Rafael Green Charge Networks GreenStation,United States,30,30,1,30
+36.97879656,-122.0208881,90 kW / 180 kWh Santa Cruz County Building - Green Charge Networks,United States,180,90,2,180
+34.1726298,-118.76,Oak Park USD - Brookside Elementary School Green Charge Networks GreenStation,United States,120,60,2,120
+37.385071,-122.109264,MVLA High School District - Los Altos HS,United States,400,200,2,400
+34.0125238,-118.4956258,Shore Hotel Green Charge Networks GreenStation,United States,60,60,1,60
+33.67122986,-117.8452182,Park Place LBA Realty - Stem,United States,3000,1500,2,3000
+33.4936391,-117.15,Temecula Valley Unified School District - SolarCity,United States,2600,260,10,2600
+21.3236186,-157.88,36 kW Watanabe Floral Project,United States,72,36,2,72
+37.6390972,-120.9968782,Modesto Irrigation District - Primus Power,United States,112000,28000,4,112000
+37.6390972,-120.9968782,MID Primus Power Wind Energy Storage Demonstration - Renewables Firming,United States,1000,250,4,1000
+32.8246632,-117.1520148,"SDGE Skills CES, GRC ES Program Unit 2",United States,50,25,2,50
+32.9628234,-117.0358646,"SDGE Poway CES, GRC ES Program Unit 4",United States,50,25,2,50
+32.8246632,-117.1520148,"SDGE Clairmont CES, GRC ES Program Unit 3",United States,50,25,2,50
+36.14433798,-115.228048,Nevada Energy Battery Storage Project (Villa Trieste),United States,10,5,2,10
+36.1672559,-115.148516,UNLV RDSI Demonstration Project,United States,8.55,9,0.95,8.55
+35.2272086,-80.8430827,Duke Energy- Residential,United States,10.98,6,1.83,10.98
+21.304547,-157.855676,HECO/Greensmith Energy Battery Energy Storage System,United States,20,5,4,20
+46.35014,-94.22,Brainerd Public Utilities Battery Pilot,United States,10,5,2,10
+46.2087066,-119.1199192,Benton PUD Battery Energy Storage,United States,40,10,4,40
+43.6831948,-92.9698262,Austin Utilities Energy Storage Pilot,United States,74,37,2,74
+44.60446765,-75.18627634,Ultralife SUNY Canton Wind Integration Demo,United States,2000,500,4,2000
+42.112485,-75.98,AES Johnson City,United States,2000,8000,0.25,2000
+41.5964825,-73.91,NYSERDA-EOS Microgrid,United States,1075,250,4.3,1075
+33.1580933,-117.35,NRG Energy 0.5 MW,United States,2000,500,4,2000
+36.527,-114.761,Southern Bighorn Solar &amp; Storage Center - 300 Megawatt Solar Array,United States,1200,300,4,1200
+38.42547616,-122.8320976,10 MW - PG&E Molino Substation- Hecate Energy,United States,20000,10000,2,20000
+41.72742028,-81.25447908,City of Painesville Municipal Power Vanadium Redox Battery Demonstration,United States,8640,1080,8,8640
+40.70446735,-74.01263158,American Vanadium Corp. MTA CellCube Installation,United States,389.7,90,4.33,389.7
+40.7830603,-73.97,New York City 1 MW Aggregated BTM - Glenwood Management,United States,4000,1000,4,4000
+33.6588951,-117.83,Irvine Ranch Water District (IRWD) - AMS,United States,47.95,7,6.85,47.95
+33.69125877,-117.8333905,Grand Johanna Aliso Canyon Energy Storage - SCE / Powin,United States,8000,2000,4,8000
+33.7700504,-118.19,AES Alamitos Energy Storage Array,United States,400000,100000,4,400000
+34.0321056,-117.5585169,Aliso Canyon SCE Mira Loma Substation - Tesla,United States,80000,20000,4,80000
+33.1192068,-117.09,SDG&E Escondido Substation - AES,United States,120000,30000,4,120000
+32.7947731,-116.96,SDG&E El Cajon Substation - AES,United States,30000,7500,4,30000
+47.5877433,-122.24,Clean Energy Storage: Advanced Energy Storage Research & Innovation Center,United States,360,30,12,360
+34.35779262,-119.054719,Santa Paula 1 - Western Grid Development LLC,United States,20000,5000,4,20000
+34.05858449,-117.7785179,AltaGas Pomona Energy - SCE / Greensmith Energy,United States,80000,20000,4,80000
+39.0817985,-77.1516844,TimberRock De-MAP Test,United States,10,10,1,10
+37.1619755,-94.3143336,Carthage Water & Electric Plant,United States,227,100,2.27,227
+39.04124864,-94.57052543,Kansas City Green Impact Zone SmartGrid - Kansas City Power and Light,United States,1000,1000,1,1000
+37.680208,-121.79,Livermore Valley Performing Arts Center 30 kW Imergy Flow Battery,United States,120,30,4,120
+37.5482697,-121.99,SolarCity / Tesla / Princeton Power Grid Services Project (Fremont Site 1),United States,200,200,1,200
+41.256483,-74.3598755,Rural New York Smart Home - Lotus Energy / SimpliPhi,United States,163.4,20,8.17,163.4
+20.8029568,-156.3106833,Juicebox Energy-Rising Sun Solar- Maui,United States,8,4,2,8
+37.71274725,-121.7971744,Las Positas College EPIC Microgrid - Imergy / GELI,United States,1000,250,4,1000
+38.92327342,-94.65810844,Black & Veatch World Headquarters Microgrid System,United States,300,200,1.5,300
+42.2042586,-72.62,Holyoke Resiliency Facilities (MASS DOER Community Resiliency),United States,1966,983,2,1966
+42.58616265,-70.91706881,Beverly Regional Cache Site (MASS DOER Community Resiliency),United States,78,39,2,78
+32.7766642,-96.8,Oncor Battery Storage,United States,750,250,3,750
+40.7127837,-74.01,Queens College-CUNY PV System,United States,240,60,4,240
+42.6583356,-71.14,Schneider Electric-Boston One,United States,1000,400,2.5,1000
+21.1443935,-157.02,6 MW / 10 MWh Molokai Island Energy - Phase One,United States,10020,6000,1.67,10020
+33.162252,-117.347564,Ocean Park Inn 18 kW Stem,United States,18,18,1,18
+38.24006457,-122.285172,2 MWh - Napa Sanitation District - Tesla,United States,2000,500,4,2000
+41.67645081,-70.19550374,Dennis-Yarmouth High School Regional Shelter (MASS DOER Community Resiliency),United States,512,512,1,512
+40.9634335,-72.18,Long Island Community Microgrid Project - 5 MW / 25 MWh,United States,25000,5000,5,25000
+42.6065743,-72.6,Greenfield High School (MASS DOER Community Resiliency),United States,258,129,2,258
+44.126857,-70.8918,Charlotte Hobbs Memorial Library - JuiceBox Energy,United States,10.38,6,1.73,10.38
+35.130454,-79.367756,Bosch Fort Bragg,United States,100,100,1,100
+40.6781784,-73.94,Con Edison Virtual Power Plant - SunPower / Sunverge,United States,3996,1800,2.22,3996
+48.8901226,-121.95,2 MW/ 4.4 MWh Puget Sound Energy - Glacier Battery Storage,United States,4400,2000,2.2,4400
+43.3595096,-115.4501724,Cat Creek Energy & Water Storage Renewable Power Station,United States,87120000,720000,121,87120000
+32.9179,-116.9264,San Vicente Pumped Storage,United States,4000000,500000,8,4000000
+41.665573,-112.435667,"Promontory Microgrid CAES - ATK Launch Systems - Over 540 Buildings on a Sprawling 19,900-Acre Site",United States,60,80,0.75,60
+33.6680772,-117.33,Lake Elsinore Advanced Pumped Storage,United States,6000000,500000,12,6000000
+32.87935255,-117.2311005,UCSD Amber Kinetics 40 kWh Flywheel,United States,15.5,25,0.62,15.5
+31.8354447,-95.8388504,Bethel Energy Center - Apex Compressed Air Energy Storage - 317 MW Compressed Air Energy Storage,United States,30432000,317000,96,30432000
+61.2180556,-149.9002778,Chugach Electric Association Microgrid Hybrid Storage - 2MW,United States,500,2000,0.25,500
+61.166488,-149.910702,Chugach Multi-Stage Energy Storage System (MS-ESS) - 320 kW,United States,256,320,0.8,256
+21.4389123,-158.0000565,Campbell Industrial Park 8kW / 32kWh Flywheel ESS - Amber Kinetics &amp; Hawaiian Electric Company,United States,32,8,4,32
+41.8023171,-107.24,Black Canyon Pumped Storage,United States,11000000,1000000,11,11000000
+38.4343464,-118.49,Rose Creek Pumped Storage,United States,3000000,250000,12,3000000
+43.3595407,-115.4497699,Anderson Pumped Storage,United States,960000,80000,12,960000
+39.356,-114.799,White Pine Pumped Storage,United States,9000000,750000,12,9000000
+44.0978126,-120.1,Prineville Pumped Storage,United States,1230000,150000,8.2,1230000
+36.0795613,-115.09,Eldorado Pumped Storage,United States,10330000,1000000,10.33,10330000
+40.7561745,-76.12852989,Silver Creek Pumped Storage Project,United States,2400000,300000,8,2400000
+27.3364347,-82.53,Sarasota County School District,United States,160000,20000,8,160000
+39.9493923,-75.16618634,1500 Walnut,United States,1260,210,6,1260
+33.64742835,-117.8466369,UCI Microgrid: Thermal Storage,United States,52720,6590,8,52720
+43.0120545,-75.039989,ConEdison Interoperability of Demand Response Resources: Thermal,United States,10000,1000,10,10000
+37.64219591,-122.1038385,CLPCCD - Utility Infrastructure Project,United States,4156.3,890,4.67,4156.3
+40.7591232,-73.97955599,Rockefeller Center Thermal Storage,United States,15375,1025,15,15375
+31.7639721,-106.49,EPCC Thermal Storage: Rio Grande,United States,1440,180,8,1440
+33.9533487,-117.4,Riverside Public Utilities 5 MW Ice Energy Project,United States,30000,5000,6,30000
+33.8347516,-117.911732,Anaheim Public Utility- Ice Energy,United States,950,200,4.75,950
+37.831316,-122.29,Halotechnics Advanced Molten Glass for Heat Transfer and Thermal Energy Storage,United States,30,5,6,30
+34.0522342,-118.24,Ice Energy procurement from SCE's November 2014 LCR: 25.6 MW,United States,153600,25600,6,153600
+32.8776555,-117.2432723,UCSD Thermal Storage Tank,United States,16000,4000,4,16000
+43.60842034,-72.98055836,Citizens Bank - Green Mountain Power Ice Energy Project 2,United States,60,10,6,60
+33.9459413,-117.4102444,Riverside Public Utilities 5 MW Ice Energy Project,United States,30000,5000,6,30000
+40.522734,-105.09,Fort Collins Utilities Four Cities Smart Grid Development Project - Facilities Site,United States,552,92,6,552
+40.5729396,-105.08,Fort Collins Utilities Four Cities Smart Grid Development Project - CSU Site,United States,480,80,6,480
+32.7762719,-96.7968559,CALMAC Centex Building,United States,1230,205,6,1230
+40.58224158,-122.3719622,Park Marina Building,United States,792,132,6,792
+42.1456895,-87.84653765,Underwriters Laboratories - Calmac,United States,17500,1250,14,17500
+29.382539,-98.6135459,Lackland Air Force Base,United States,4640,580,8,4640
+38.52245,-77.29,Federal Government Facility Chilled Water TES,United States,685,274,2.5,685
+40.9682437,-76.60415398,Geisinger Health System Danville Chilled Water Thermal Storage,United States,5600,700,8,5600
+26.640628,-81.8723084,Shell Point Retirement Village,United States,28800,4800,6,28800
+40.5559815,-105.0758725,Ice Energy Manufacturing Facility Project,United States,144,24,6,144
+33.04524735,-117.2672117,Encinitas Civic Center,United States,450,75,6,450
+40.1421639,-74.23,Ice Energy Storage at Staples Retailer,United States,177.46,38,4.67,177.46
+40.33355715,-80.04183976,Bethel Park High School,United States,2250,375,6,2250
+38.7342564,-122.14,Cache Creek Casino,United States,7800,1300,6,7800
+32.7801399,-96.8,Texas Instruments Manufacturing Plant,United States,51200,6400,8,51200
+31.8855883,-106.44,EPCC Thermal Storage: Transmountain,United States,1800,225,8,1800
+43.60858154,-72.98058334,Green Mountain Power Ice Energy Project 1,United States,210.15,45,4.67,210.15
+36.114646,-115.17,Ice Energy Big Box Retailer Project,United States,177.46,38,4.67,177.46
+34.072968,-114.81,Rice Solar Energy Project,United States,1200000,150000,8,1200000
+39.9527237,-75.1635262,Power Station Generation Storage,United States,48000,6000,8,48000
+40.5865396,-122.39,Redding Electric Utilities (Phase 2) - Ice Energy,United States,12000,6000,2,12000
+34.05986265,-117.5092538,Ice Energy project at 10661 Business Dr.,United States,120,20,6,120
+36.169202,-115.140597,Arrow Canyon Solar Project - 200 Megawatt Solar Photovoltaic Project,United States,1000,200,5,1000
